@@ -1,0 +1,12 @@
+<!--    always add your custom css, i.e, style.css at the very end of head! -->
+<!--    always add your custom js, i.e, script.js at the very end of body! -->
+<!--            data-interval is between 1800 to 2200, standard time -->
+
+indicator always before inner
+
+
+
+
+
+<!--bootstrqp has only js-->
+<!--proper.js + bootstrap.js is in the bootstrap.bundle.js, that's why we use this one-->
